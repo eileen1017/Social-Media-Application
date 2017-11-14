@@ -1,0 +1,3 @@
+README for pa1pr1
+
+I design this part by making connecting between server and user using input_stream and output_stream. For the Server, I use input_stream to take information from the user who types his or her message, and use output_stream to send out server’s response. If I want to print message locally, I just use system.out.println statement. It is quite same for the user as well. Conversely, the user gets response from serve by input_stream, sends out message by output_stream. 
